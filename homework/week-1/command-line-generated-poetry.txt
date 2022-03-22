@@ -1,0 +1,17 @@
+This was generated using two poems I wrote, Honey, and Unravel, and generated via the following command:
+    paste -d "\n" honey.txt unravel.txt | sed -E '/^$/d' > sample.txt
+
+enveloping you within me
+she unraveled into me
+folding your hurt
+unexpectedly
+into the warm creases
+dark ribbons untangling
+of my lips,
+from her autumn hair
+and tongue dripping
+honey liquid curses
+we drink,
+swallowing each other’s
+poisons,
+forgetting.
