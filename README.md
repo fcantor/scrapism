@@ -1,4 +1,4 @@
-![Scrapism](/images/scrapism.png)
+![<img src="/images/scrapism.png" width="100" height="100"/>](/images/scrapism.png)
 
 # About
 This repo is where I'll be pushing up any work I'm doing and have submitted for the School of Poetic Computation's Scrapism class (Spring 2022).
@@ -11,5 +11,5 @@ As an alternative, "Scrapism" is the practice of web scraping for artistic, emot
 In this class participants will learn how to scrape massive quantities of material from the web with Python, and then use this source material in projects that probe the politics and poetics of the internet. We will cover multiple web scraping techniques, as well as different techniques for manipulating and presenting textual content.
 
 # Resources
-![SFPC](/images/sfpc.png)
+![<img src="/images/sfpc.png" width="150" height="100"/>](/images/sfpc.png)
 - [School For Poetic Computation (SFPC)](https://sfpc.io/)
