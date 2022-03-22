@@ -1,0 +1,1 @@
+Create a work of computationally generated poetry using only command-line tools. These might include grep, sort, tr, cat, sed, fold, curl, say, and others. You can repurpose an existing text, or write one on your own.
